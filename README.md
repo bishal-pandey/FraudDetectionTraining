@@ -1,4 +1,4 @@
-# Fraud Detection Training Pipeline
+# SentinelStream Fraud Detection Training Pipeline
 
 A machine learning pipeline for training fraud detection models using XGBoost. This project implements an end-to-end training pipeline with MLflow tracking and DVC for data version control.
 
